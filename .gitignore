@@ -1,0 +1,5 @@
+# Quarto cache files
+/.quarto/
+
+# Rendered website output
+/_site/
