@@ -21,3 +21,6 @@ format:
 execute:
   freeze: auto
 
+resources:
+  - "*.png"
+  - "*.jpg"
