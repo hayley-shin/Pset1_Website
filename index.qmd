@@ -5,4 +5,4 @@ title: "Pset1_Website"
 ## Pset 3 Visualization
 ### Grid Plot of NBA Data
 
-![](NBA_schedule.png)
+![](NBA_Schedule.png)
