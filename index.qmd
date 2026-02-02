@@ -2,6 +2,7 @@
 title: "Pset1_Website"
 ---
 
-This is a Quarto website.
+## Pset 3 Visualization
+### Grid Plot of NBA Data
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![](NBA_schedule.png)
