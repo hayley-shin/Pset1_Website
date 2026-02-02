@@ -1,1 +1,1 @@
-Sitemap: https://a7d799eb-14f6-452d-a64c-65fbffd1a450.netlify.app/sitemap.xml
+Sitemap: https://hayley-shin.github.io/Pset1_Website/sitemap.xml
